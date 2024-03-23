@@ -2,3 +2,5 @@ __pycache__/
 *.ini
 *.conf
 **/Dockerfile*
+part2.yaml
+part3.yaml
